@@ -1,5 +1,6 @@
 {
   "name": "electrichamam",
+  "homepage": "https://electrichamam.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
